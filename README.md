@@ -22,7 +22,7 @@ Uma aplicação para treinar o que aprendi até agora com Node.js!
 * ide utilizada visual studio code
 
 ### Resultado da execução
-![](blob/master/img/Captura%20de%20tela%20de%202020-12-06%2014-33-57.png)
+![](img/Captura%20de%20tela%20de%202020-12-06%2014-33-57.png)
 
 
 #### Por José Geraldo
