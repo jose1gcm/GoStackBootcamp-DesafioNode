@@ -1,5 +1,5 @@
 # GoStackBootcamp-DesafioNode
-### Desafios Bootcamp da Rocketseat
+### Desafios Bootcamp da Rocketseat @Rocketseat
 ### Desafio NodeJs
 
 * Treinar os conceitos com Node.js! 
